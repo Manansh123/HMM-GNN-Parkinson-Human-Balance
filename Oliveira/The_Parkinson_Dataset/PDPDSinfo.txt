@@ -1,0 +1,105 @@
+ID	Gender	Age	Height (cm)	Weight (kg)	BMI (kg/m2)	Ortho-Prosthesis	Years of formal study	Disease duration (years)	L-Dopa equivalent units (mg•day-1)	FoG group	FoG-Q (score)	PIGD or TD	Initial symptoms	Is there a family history of PD? Who?	Do you feel improvement after using the antiparkinsonian medicine?	Have you ever had any type of surgery? Which?	Any rehabilitation or physical activity?	Other disease (cardiovascular, bone, etc.)	ON - Hoehn & Yahr 	ON - MoCA	ON - UPDRS-II	ON - UPDRS-III	ON - UPDRS-III - Rigidity	ON - UPDRS-III - Gait	ON - UPDRS-III - Bradykinesia	ON - UPDRS-III - Dyskinesia	ON - miniBESTest	ON - FES-I	OFF - Hoehn & Yahr 	OFF - MoCA	OFF - UPDRS-II	OFF - UPDRS-III	OFF - UPDRS-III - Rigidity	OFF - UPDRS-III - Gait	OFF - UPDRS-III - Bradykinesia	OFF - UPDRS-III - Dyskinesia	OFF - miniBESTest	OFF - FES-I		
+PDPDS01	F	53	170	62.55	21.64	No	16	4	275	nonfreezers	0	TD	Rigidity	No	No	Caesarean section, bowel cyst	Aerobic weight training, yoga, spinning	No	1	30	1	7	3	0	0	0	32	20	1	29	2	10	3	0	0	1	32	28		
+PDPDS02	M	69	165	76.50	28.10	Corrective lens	24	1	770	nonfreezers	0	TD	Rigidity	No	Yes	No	Physiotherapy, pilates	Systemic Arterial Hypertension	2	27	2	9	2	0	1	0	24	17	2	24	1	17	4	0	1	0	20	19		
+PDPDS03	M	68	169	68.90	24.12	No	11	19	1664	freezers	24	PIGD	Tremor	No	Yes	Umbilical hernia	Physiotherapy, speech therapy	Urinary and fecal incontinence	3	19	5	33	7	2	2	0	23	31	3	26	10	48	13	2	4	0	19	47		
+PDPDS04	F	77	151.5	60.20	26.23	Corrective lens	4	15	100	nonfreezers	0	TD	Tremor	No	No	No	Physiotherapy	Systemic Arterial Hypertension	2	22	3	14	3	0	1	0	26	22	2	15	6	30	0	0	1	0	26	19		
+PDPDS05	M	65	168	89.00	31.53	No	4	15	766	nonfreezers	0	TD	Tremor	No	Yes	Angioplasty, prostate	Physiotherapy	Depression, diabetes, fecal incontinence	3	16	11	32	14	1	2	0	19	42	3	17	9	36	6	1	3	0	18	47		
+PDPDS06	F	44	157	53.30	21.62	No	16	14	665	freezers	21	PIGD	Tremor, Rigidity	No	Yes	Appendicitis	Physiotherapy	Urinary incontinence	2	25	1	15	2	2	1	0	32	17	2	27	11	16	4	2	1	0	29	31		
+PDPDS07	M	60	179	92.45	28.85	Corrective lens	12	5	750	nonfreezers	0	PIGD	Rigidity	No	No	No	No	No	2	24	4	15	6	1	0	0	26	28	3	28	6	30	7	2	2	0	21	47		
+PDPDS08	M	81	154.5	65.65	27.50	Corrective lens	16	4	866	freezers	20	PIGD	Tremor	Yes, uncles	No	No	Physiotherapy, acupuncture	Polyneuropathy, herniated disc (lumbar)	3	25	6	28	13	1	1	0	15	27	3	20	7	47	8	2	1	0	20	38		
+PDPDS09	M	76	167	65.35	23.43	No	12	11	500	freezers	2	TD	Tremor	No	Yes	No	Physiotherapy, hydrotherapy, walking, speech therapy, psychology	Systemic Arterial Hypertension	2	27	1	12	2	0	0	0	31	25	2	24	3	20	9	0	0	0	28	28		
+PDPDS10	M	73	168	79.00	27.99	Corrective lens	9	3	400	nonfreezers	0	PIGD	Rigidity	No	No	Angioplasty with stent, wrist extensor tendon, vocal fold nodule, hemorrhoid, appendicitis	Physiotherapy	Systemic Arterial Hypertension, fecal incontinence	2	15	1	20	4	1	0	0	26	23	2	18	1	22	5	1	2	0	29	21		
+PDPDS11	F	66	168	86.95	30.81	No	12	10	600	freezers	26	PIGD	Tremor, rigidity, slowness of movement	No	No	Removal of left kidney, femur fracture, caesarean section, hysterectomy	Bicycle	Depression, osteopenia	4	24	12	35	5	2	2	5	14	37	4	21	12	38	9	2	2	2	11	49		
+PDPDS12	M	53	167	77.20	27.68	Corrective lens	9	14	950	nonfreezers	0	TD	Tremor	Yes, uncles	Yes	Wrist	No	Anxiety	2	23	1	25	4	0	0	8	29	16	2	26	4	23	5	0	2	0	27	21		
+PDPDS13	M	46	171	61.50	21.03	No	16	8	600	freezers	21	Undetermined	Tremor	No	Yes	Left anterior cruciate ligament	Physiotherapy, sports	Shoulder pain, depression	1	28	1	2	0	0	0	1	30	16	2	28	10	6	1	1	0	0	32	42		
+PDPDS14	M	57	173.5	57.70	19.17	No	12	4	1000	nonfreezers	0	TD	Rigidity	No	No	No	Physiotherapy, speech therapy, running	No	2	15	3	16	4	0	1	0	27	20	2	21	5	24	7	1	1	0	24	31		
+PDPDS15	M	74	179	94.55	29.51	No	15	3	250	nonfreezers	0	TD	Rigidity, postural instability	Yes, mother	No	Umbilical hernia, Prostate reduction	Physiotherapy	Systemic Arterial Hypertension, diabetes	3	26	7	15	1	1	1	0	21	25	3	28	4	29	5	1	1	4	24	33		
+PDPDS16	M	74	165	62.20	22.85	Corrective lens	15	12	750	nonfreezers	0	TD	Tremor	No	Yes	No	Physiotherapy	Systemic Arterial Hypertension	2	26	2	16	2	0	1	0	29	18	2	29	3	14	2	0	1	0	27	19		
+PDPDS17	M	50	176	73.60	23.76	No	16	5	2100	freezers	16	TD	Tremor	No	Yes	No	Physiotherapy	Systemic Arterial Hypertension	2	24	7	19	4	0	1	0	30	28	2	21	8	22	4	1	2	1	30	46		
+PDPDS18	M	62	166.5	57.40	20.71	No	8	7	610	freezers	11	TD	Tremor	No	No	Bilateral inguinal hernia	Walking	Systemic Arterial Hypertension	2	23	6	25	12	0	2	0	31	19	2	24	5	33	3	1	2	0	31	24		
+PDPDS19	M	70	162	71.80	27.36	Corrective lens	12	4	500	nonfreezers	0	TD	Tremor	No	Yes	No	Walking	Systemic Arterial Hypertension	2	17	0	28	11	0	0	0	26	25	2	18	4	26	7	2	1	0	24	24		
+PDPDS20	M	61	180	68.70	21.20	No	9	10	800	nonfreezers	0	TD	Tremor	No	Yes	No	No	Diabetes	2	21	4	25	7	1	1	0	26	36	2	20	5	38	9	1	2	0	28	41		
+PDPDS21	M	60	175	77.05	25.16	No	9	7	900	nonfreezers	0	TD	Rigidity	No	Yes	No	No	Urinary incontinence	3	22	3	17	7	1	1	0	29	40	3	22	4	32	14	1	2	0	27	38		
+PDPDS22	M	62	177	95.60	30.51	No	12	5	1100	nonfreezers	0	TD	Rigidity	No	Yes	No	Walking	No	2	23	4	21	7	0	1	0	31	23	2	21	6	38	7	1	1	0	27	36		
+PDPDS23	M	77	184	82.95	24.50	Corrective lens	12	13	366	nonfreezers	0	PIGD	Tremor	No	No	No	Physiotherapy	Systemic Arterial Hypertension	2	24	8	7	2	1	1	0	28	22	2	24	10	17	5	1	1	0	28	23		
+PDPDS24	M	71	179	72.75	22.71	No	14	2	400	nonfreezers	0	TD	Rigidity	No	Yes	No	No	No	2	22	3	25	6	1	2	0	30	18	2	21	4	25	4	2	2	0	30	20		
+PDPDS25	M	68	161	63.90	24.65	Corrective lens	11	4	300	freezers	9	TD	Slowness of movement	No	Yes	No	Physiotherapy	Depression	3	27	1	12	1	1	1	3	28	24	3	26	1	22	6	2	1	0	22	40		
+PDPDS26	F	78	158	64.75	25.94	No	12	3	500	freezers	14	PIGD	Rigidity, postural instability	Yes, uncles	No	Caesarean section	Physiotherapy	No	3	29	2	6	0	0	0	0	28	18	3	29	2	40	9	1	2	0	21	32		
+PDPDS27	F	82	160	72.05	28.14	No	12	5	300	nonfreezers	0	PIGD	Rigidity, postural instability	No	No	Caesarean section	Physiotherapy, speech therapy	Systemic Arterial Hypertension	3	22	3	21	9	1	1	0	18	49	3	22	4	21	4	1	2	0	13	51		
+PDPDS28	F	53	155	57.60	23.98	Corrective lens	12	5	664	freezers	14	PIGD	Tremor	No	No	No	Physiotherapy	Systemic Arterial Hypertension, depression	3	23	5	8	0	1	1	0	27	35	3	22	7	6	1	1	0	0	24	36		
+PDPDS29	M	53	178	55.30	17.45	No	16	8	500	freezers	6	PIGD	Slowness of movement	No	Yes	No	Physiotherapy, speech therapy	No	2	27	7	14	0	0	0	0	31	21	2	27	7	19	0	0	1	0	29	37		
+PDPDS30	F	78	165	70.75	25.99	No	16	6	700	nonfreezers	0	TD	Tremor	No	Yes	Caesarean section	Walking	Urinary and fecal incontinence	2	25	2	15	1	1	0	0	28	26	2	24	2	21	4	1	1	0	29	34		
+PDPDS31	M	69	182	71.15	21.48	No	16	4	550	nonfreezers	0	TD	Tremor	No	No	No	Walking	Systemic Arterial Hypertension	2	22	8	31	11	1	1	0	27	33	2	22	9	32	14	1	1	0	27	40		
+PDPDS32	M	66	168	60.00	21.26	Corrective lens	12	8	1000	freezers	18	PIGD	Rigidity, postural instability	Yes, uncles	No	No	Physiotherapy		3	28	7	11	0	0	1	0	25	22	3	27	8	45	6	1	2	0	24	24		
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								

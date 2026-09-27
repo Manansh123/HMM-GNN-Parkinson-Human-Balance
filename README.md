@@ -96,21 +96,28 @@ is available on the project website.
 
 ### Original HMM Research
 
-*Efficient Characterization Of The Human Balance Using HMMS.*
 Denkeng, A. T., Mourad, A. M., Iloga, S., Mba, R. M., Baazaoui, H., Ndié, T. D., & Romain, O. (2025).
+
+*Efficient Characterization Of The Human Balance Using HMMS.*
+
 IEEE Access, 13, 183456–183479.
+
 DOI: 10.1109/ACCESS.2025.3622375
 
 ### Oliveira Dataset
 
 Oliveira, C. E. N., Souza, C., Treza, R. d. C., Hondo, S. M., Los Angeles, E., Bernardo, C., Shida, T. K. F., Oliveira, L., Novaes, T. M., Campos, D. d. S. F., et al. (2022).
+
 *A public data set with ground reaction forces of human balance in individuals with Parkinson's disease.*
+
 Frontiers in Neuroscience, 16, 865882.
 
 ### Santos & Duarte Dataset
 
 Santos, D. A. & Duarte, M. (2016).
+
 *A public data set of human balance evaluations.*
+
 PeerJ, 4, 2648.
 
 ## Purpose
